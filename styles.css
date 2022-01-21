@@ -11,4 +11,5 @@ body {
 .footer {
   flex-shrink: 0;
   margin-bottom: 100px;
+  color-background: DodgerBlue;
 }
