@@ -10,6 +10,7 @@ body {
 }
 .footer {
   flex-shrink: 0;
-  margin-bottom: 100px;
+  margin-bottom: 10px;
   color-background: DodgerBlue;
+  color: yellow;
 }
